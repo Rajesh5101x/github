@@ -1,0 +1,549 @@
+#head {
+    height: 80px;
+    width: 1500px;
+    border: 2px solid #232f3e;
+    background-color: #232f3e;
+    display: flex;
+}
+
+#Amazon_logo {
+    height: 70px;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-image: url("download.png");
+    background-size:cover;
+    background-position: center;
+}
+
+#del{
+    width: 90px;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+    margin-left: 15px;
+}
+
+#items{
+    
+    font-size: 20px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 30px;
+}
+
+select {
+    height: 51px;
+    width: 49px;
+    font-size: 0.9rem;
+    padding: 2px 5px;
+    padding-right: 0px;
+    border-radius: 10%;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: rgb(233, 240, 246);
+  }
+
+input{
+    height: 47px;
+    width: 470px;
+    padding-left: 0px ;
+    border-left: 0px;
+    margin-top: 9px ;
+    font-size: 20px;
+    padding-right: 0px;
+    border-right: 0px;
+}
+
+button{
+    height: 52.777px;
+    width: 57px;
+    margin-top: 9px ;
+    padding-left: 0px;
+    border-left: 0px;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color: rgb(242, 159, 129);
+}
+
+#ind{
+    height: 20px;
+    width: 25px;
+    background-image: url("download (1).png");
+    background-size:cover;
+    background-position: center;
+    margin-top: 3px;
+    border-radius: 15%;
+}
+
+#India{
+    display: flex;
+    margin: 15px;
+    margin-top: 27px;
+    margin-left: 35px;
+}
+
+#country , #select{
+    height: 25px;
+    width: 47px;
+    background-color: #232f3e;
+    border: none;
+    color: white;
+    font-size: 1.1rem;
+    padding: 0px;
+}
+ 
+#co{
+    height: 45px;
+    width: 95px;
+    background-color: #232f3e;
+    border: none;
+    color: white;
+    font-size: 0.7rem;
+}
+
+#sign{
+    display: flex;
+    height: 70px;
+    width: 165px;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+p{
+    margin: 0px;
+    margin-top: 15px;
+    color: white;
+}
+
+#select{
+    width: 23px;
+    margin-top: 40px;
+}
+
+#re{
+    height: 55;
+    width: 80px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+#cart{
+    height: 65px;
+    width: 100px;
+    background-image: url("images (1).jpeg");
+    background-size:cover;
+    background-position: center;
+    margin-top: 5px;
+    border-radius: 15%;
+    margin-left: 35px;
+}
+
+#menue{
+    height: 45px;
+    width: 1504px;
+    background-color: #374659;
+    display: flex;
+    margin-top: 0px;
+    color: white;
+}
+
+#menuToggle{
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 13px;
+    
+}
+
+.bar {
+    width: 30px;
+    height: 3px;
+    background-color: #fff; /* Default color for the bars */
+    margin: 6px 0;
+}
+
+#men{
+    display: flex;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 7px;
+}
+
+.men{
+    margin-right: 30px;
+}
+
+#bodya{
+    width: 1500px;
+    height: 1600px;
+    display: flex;
+    
+}
+
+#img1{
+    width: 1500px;
+    height: 700px;
+    background: url("51RPiINhM7L._SX1500_.jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+#img2{
+    width: 1500px;
+    height: 1000px;
+    background-color: silver;
+    z-index: 0;
+}
+
+#rajesh{
+    height: 40px;
+    width: 1500px;
+    padding: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    margin-top: -1290px; 
+    background-color: #fff;
+}
+
+#raj1,#raj2,#raj3{
+    display: flex;
+    height: 550px;
+    width: 480px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+   
+}
+
+#top1{
+    height: 120px;
+    width: 250px;
+    background-image:  url("Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-left: -10px;
+    margin-top: 50px;
+    text-align:center;
+    align-items:start;
+}
+
+#top1:hover{
+    transform: scale(110%);
+}
+
+#top2{
+    height: 150px;
+    width: 320px;
+    background-image: url("Fuji_Quad_Keyboard_2x._SY232_CB667159063_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-top: 30px;
+}
+
+#top2:hover{
+    transform: scale(110%);
+}
+
+
+#bottom1{
+    height: 120px;
+    width: 250px;
+    background-image:  url("Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-left: -10px;
+    margin-top: 50px;
+    text-align:center;
+    align-items:start;
+}
+
+#bottom1:hover{
+    transform: scale(110%);
+}
+
+
+#bottom2{
+    height: 150px;
+    width: 320px;
+    background-image: url("Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-top: 30px;
+}
+
+#bottom2:hover{
+    transform: scale(110%);
+}
+
+ 
+#pc{
+    height: 412px;
+    width: 450px;
+    background: url("Fuji_Desktop_Single_image_EBF_2x_v1._SY608_CB573698005_1.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+#pc:hover{
+    transform: scale(110%);
+}
+
+#top3{
+    height: 135px;
+    width: 210px;
+    background-image:  url("DesktopQuadCat_372x232_LP-HP_B08MYX5Q2W_01.23._SY232_CB619238939_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-left: 17px;
+    margin-top: 30px;
+    text-align:center;
+    align-items:start;
+}
+
+#top3:hover{
+    transform: scale(110%);
+}
+
+#top4{
+    height: 140px;
+    width: 220px;
+    background-image: url("DesktopQuadCat_372x232_home_B08RCCP3HV_01.23._SY232_CB619238939_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-top: 30px;
+    margin-left: 17px;
+}
+
+#top4:hover{
+    transform: scale(110%);
+}
+
+#bottom3{
+    height: 140px;
+    width: 210px;
+    background-image:  url("DesktopQuadCat_372x232_kitchen_B0126LMDFK_01.23._SY232_CB619238939_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-left: 17px;
+    margin-top: 50px;
+    text-align:center;
+    align-items:start;
+}
+
+#bottom3:hover{
+    transform: scale(110%);
+}
+
+
+#bottom4{
+    height: 140px;
+    width: 225px;
+    background-image: url("DesktopQuadCat_372x232_health-beauty_B07662GN57_01.23._SY232_CB619238939_.jpg");
+    background-size: contain;
+    background-position: center ;
+    margin-top: 50px;
+    margin-left: 17px;
+}
+
+#bottom4:hover{
+    transform: scale(110%);
+}
+
+#secondrow{
+    display: flex;
+    height: 620px;
+    width: 1364px;
+    margin: 10px;
+    margin-top: 0px;
+}
+
+#first,#second,#third{
+    display: inline;
+    height: 570px;
+    width: 480px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+#smart{
+    height: 270px;
+    width: 450px;
+    background-image: url("41aF1Kpc1iL._SY320_.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 15px;
+    margin-top: -20px;
+}
+
+#smart:hover{
+        transform: scale(110%);
+}
+
+#tab,#lap,#tv{
+    margin: 3px;
+    height: 100px;
+    width: 146px;
+}
+
+#tab{
+    background-image: url("316r7290SLL._SY150_.jpg");
+    background-size: contain;
+    background-position: center;
+    margin-left: 11px;
+}
+
+#tab:hover{
+    transform: scale(110%);
+}
+
+#lap{
+    background-image: url("31qcGgiIK7L._SY150_.jpg");
+    background-size: contain;
+    background-position: center;
+}
+
+#lap:hover{
+    transform: scale(110%);
+}
+
+#tv{
+    background-image: url("313zteqI9LL._SY150_.jpg");
+    background-size: contain;
+    background-position: center;
+}
+
+#tv:hover{
+    transform: scale(110%);
+}
+ 
+#mid1,#mid2{
+    height: 160px;
+    width: 220px;
+    margin-left: 10px;
+    margin-top: -17px;
+}
+
+#mid1{
+    background-image: url("DQC_APR_TBYB_W_BOTTOMS_2x._SY232_CB624172947_.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#mid1:hover{
+    transform: scale(110%);
+}
+
+#mid2{
+    background-image: url("DQC_APR_TBYB_W_TOPS_2x._SY232_CB623353881_.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-right: 10px;
+}
+#mid2:hover{
+    transform: scale(110%);
+}
+
+#mid3,#mid4{
+    height: 190px;
+    width: 220px;
+    margin-left: 10px;
+    margin-top: -17px;
+}
+
+#mid3{
+    background-image: url("DQC_APR_TBYB_W_DRESSES_2x._SY232_CB623353881_.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#mid3:hover{
+    transform: scale(110%);
+}
+
+#mid4{
+    background-image: url("DQC_APR_TBYB_W_SHOES_2x._SY232_CB624172947_.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-right: 10px;
+}
+
+#mid4:hover{
+    transform: scale(110%);
+}
+
+#third2{
+    margin: 10px;
+    margin-top: -20px;
+    height: 350px;
+    width: 420px;
+    background-image: url("71zqc0SH9UL._AC_SY460_.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#third2:hover{
+    transform: scale(110%);
+}
+
+footer{
+    width: 1500px;
+    height: 960px;
+}
+
+#men2{
+    width: 1500px;
+    height: 250px;
+    background-color: white;
+    margin-top: -150px;
+    z-index: 1;
+    
+}
+
+#men3{
+    width: 1500px;
+    height: 230px;
+    border: 0.5px solid black;
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.menu{
+    width: 330px;
+    height: 500px;
+    margin: 20px;
+    margin-top: 70px;
+}
+
+.menu a{
+    text-decoration: none; 
+    color: rgb(241, 237, 231);
+    font-size: 15px;
+    
+}
+
+#img4{
+    height: 150px;
+    width: 200px;
+    background-image: url("download.png");
+    background-position: center;
+    background-size: contain;
+    border: none;
+}
+
+#language{
+    background-color: #232f3e;
+    color: white;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 55px;
+    margin-left: 10px;
+
+}
